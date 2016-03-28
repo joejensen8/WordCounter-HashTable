@@ -1,0 +1,4 @@
+OK
+Total Words: 702
+HashTable Size: 746
+Average Length of Collision Lists: 1.837696335078534
